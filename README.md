@@ -56,7 +56,6 @@ Here’s an example of what the rendered image might look like:
 
 ![Rendered Scene](images/example-output.png)
 
-> **Note**: Ensure that the `images/example-output.png` file exists in your repository's `images/` directory.
 
 ## Related Projects and Resources
 
